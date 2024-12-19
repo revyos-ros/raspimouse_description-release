@@ -1,3 +1,26 @@
+## raspimouse_description (jazzy) - 2.0.0-1
+
+The packages in the `raspimouse_description` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy raspimouse_description --override-release-repository-push-url git@github.com:revyos-ros/raspimouse_description-release.git` on `Thu, 19 Dec 2024 08:56:34 -0000`
+
+The `raspimouse_description` package was released.
+
+Version of package(s) in repository `raspimouse_description`:
+
+- upstream repository: https://github.com/rt-net/raspimouse_description.git
+- release repository: https://github.com/revyos-ros/raspimouse_description-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `null`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## raspimouse_description (humble) - 1.2.0-1
 
 The packages in the `raspimouse_description` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble raspimouse_description` on `Wed, 06 Mar 2024 09:31:01 -0000`
